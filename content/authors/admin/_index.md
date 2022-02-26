@@ -21,17 +21,17 @@ organizations:
 bio: Her research interests include protein and molecular evolution in microbial systems.
 
 interests:
-- Protein evolution
-- The distribution of fitness effects
-- Variant analysis
-- Microbial systems
-- Bioinformatics
+- Evolution and Ecology
+- Plasmids
+- Horizontal Gene Transfer
+- Adaptive Lanscapes
+- Microbial Communities
 
 education:
   courses:
   - course: PhD in Biology
     institution: University of Washington
-    year: projected 2021
+    year: projected 2022
   - course: BSc in Biology
     institution: University of Utah
     year: 2016
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Olivia Kosterlitz is a PhD Candidate in the [Kerr Lab](http://kerrlab.org/) at the [University of Washington](https://www.washington.edu/). Her research interests are in evolutionary biology with a focus on protein and molecular evolution in microbial systems. 
+I am currently a PhD Candidate and GRFP Fellow in the [Kerr Lab](http://kerrlab.org/) at the [University of Washington](https://www.washington.edu/). My overarching research interests are centered in bacterial plasmid biology investigating the effects of conjugative plasmids on the evolution and ecology of microbial communities. 
